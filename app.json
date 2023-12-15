@@ -1,0 +1,113 @@
+{
+  "id": "c39d018d-6be9-4e82-8813-98272d88d9e1",
+  "name": "E-Invoice Development 21",
+  "publisher": "TCPL",
+  "version": "1.1.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "9b903e0c-42d7-4dcd-a1ec-83306c39efc0",
+      "publisher": "Nowara Infotech",
+      "name": "APIS",
+      "version": "1.0.0.16"
+    },
+    {
+      "id": "c512d720-63b9-4b26-b062-a0c09b4ed322",
+      "publisher": "Microsoft",
+      "name": "Company Hub",
+      "version": "21.2.49946.49990"
+    }, 
+    
+    {
+      "id": "68e13fa3-217a-4be0-9141-99e5bf0ca818",
+      "publisher": "Microsoft",
+      "name": "Email - SMTP Connector",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "1150dd8d-51da-485a-bd4a-1ee98d78c21a",
+      "publisher": "Microsoft",
+      "name": "Fixed Asset Depreciation for India",
+      "version": "21.2.49946.49990"
+    },
+    
+    {
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "publisher": "Microsoft",
+      "name": "India Gate Entry",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "publisher": "Microsoft",
+      "name": "India GST",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "publisher": "Microsoft",
+      "name": "India Reports",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "publisher": "Microsoft",
+      "name": "India Tax Base",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "publisher": "Microsoft",
+      "name": "India TCS",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "publisher": "Microsoft",
+      "name": "India TDS",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "publisher": "Microsoft",
+      "name": "India Voucher Interface",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+      "publisher": "Microsoft",
+      "name": "QR Generator",
+      "version": "21.2.49946.49990"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "publisher": "Microsoft",
+      "name": "Tax Engine",
+      "version": "21.2.49946.49990"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
